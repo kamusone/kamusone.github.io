@@ -1,0 +1,12 @@
+body
+{
+	opacity: 0.9;
+	color: black;
+}
+p
+{
+	color: black;
+	text-align: justify;
+	font-style: italic;
+	text-shadow: 2px 2px 2px black;
+}
